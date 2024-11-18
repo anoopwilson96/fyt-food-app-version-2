@@ -89,8 +89,7 @@ useEffect(()=>{
 
   return (
 <div className="flex flex-col mx-auto">
-
-
+  
   <main className="flex-1 p-10 max-w-full mx-auto">
     <section>
       <div className='w-full slider-container'>
